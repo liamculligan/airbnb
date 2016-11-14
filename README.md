@@ -6,11 +6,17 @@ The goal of this competition was to predict where a new Airbnb user will make th
 There were 12 possible destinations and the evaluation metric for the competition was [Normalised Discounted Cumulative Gain @ 5](https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/details/evaluation).
 
 ## Performance
-The solution obtained a rank of [31st out of 1462 competitors] (https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/leaderboard/private)
+The solution obtained a rank of [31st out of 1462 competitors] (https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/leaderboard/private).
 
 ## Execution
 1) Create a working directory for the project <br>
-2) [Download the data from Kaggle] (https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/data) and place in the working directory
+2) [Download the data from Kaggle] (https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/data) and place in the working directory <br>
+3) Run users_sessions.py <br>
+4) Run xgb_bag.R
 
+## Requirements
+* MySQL
+* Python 3+
+* R+
 
 
