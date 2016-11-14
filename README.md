@@ -9,14 +9,14 @@ There were 12 possible destinations and the evaluation metric for the competitio
 The solution obtained a rank of [31st out of 1462 competitors] (https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/leaderboard/private).
 
 ## Execution
-1) Create a working directory for the project <br>
-2) [Download the data from Kaggle] (https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/data) and place in the working directory. <br> The files required are: `train_users_2.csv`, `test_users.csv` and `sessions.csv`. <br>
-3) Run `users_sessions.py` <br>
-4) Run `xgb_bag.R`
+1. Create a working directory for the project <br>
+2. [Download the data from Kaggle] (https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/data) and place in the working directory. <br>  The files required are: `train_users_2.csv`, `test_users.csv` and `sessions.csv`. <br>
+3. Run `users_sessions.py` <br>
+4. Run `xgb_bag.R`
 
 ## Requirements
 * MySQL
 * Python 3+
-* R+
+* R 3+
 
 
