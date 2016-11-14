@@ -10,7 +10,7 @@ The solution obtained a rank of [31st out of 1462 competitors] (https://www.kagg
 
 ## Execution
 1) Create a working directory for the project <br>
-2) [Download the data from Kaggle] (https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/data) and place in the working directory <br>
+2) [Download the data from Kaggle] (https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/data) and place in the working directory. The files required are: train_users_2.csv, test_users.csv and sessions.csv. <br>
 3) Run users_sessions.py <br>
 4) Run xgb_bag.R
 
