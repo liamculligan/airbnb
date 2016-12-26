@@ -2,7 +2,7 @@
 #Where will a new guest book their first travel experience?
 
 #Author: Liam Culligan
-#Date: Februrary 2016
+#Date: February 2016
 
 #Create a MySQL database hosted locally
 
